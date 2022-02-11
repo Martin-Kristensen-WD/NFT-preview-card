@@ -20,6 +20,7 @@ body {
   font-size: 16px;
   margin: 0;
   color: var(--white);
+  background: var(--very-dark-blue);
 }
 
 h1 {
@@ -45,6 +46,8 @@ p {
   padding: 1.4em;
   background: var(--dark-blue);
   border-radius: 15px;
+  -webkit-box-shadow: 0px 5px 35px 11px #000000;
+  box-shadow: 0px 5px 35px 11px hsl(215, 57%, 9%);
 }
 
 .main-img {
