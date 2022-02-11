@@ -1,6 +1,6 @@
 # NFT Preview Card
 
-Live view: https://martin-kristensen-wd.github.io/Animated-Card/
+Live view: https://martin-kristensen-wd.github.io/NFT-preview-card/ 
 
 ## Screenshot
 
